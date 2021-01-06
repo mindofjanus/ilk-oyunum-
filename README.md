@@ -1,2 +1,2 @@
 # ilk-oyunum-
-1,2 ve 3 arasında gezin
+Norandul'da bir macera. Bourne Strongshield'ın oğlunun bir günü.
